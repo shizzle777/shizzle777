@@ -1,6 +1,7 @@
 ## Hi there 👋
 I am currenty a Software Quality Specialist with a keen interest in Learning Software Dev.
-Here are some ideas to get you started:
+
+
 <!--
 **shizzle777/shizzle777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
